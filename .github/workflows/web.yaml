@@ -2,7 +2,7 @@ name: aa workflow
 
 on:
   push:
-    branches: [aa]
+    branches: [master]
 permissions:
   contents: write
 jobs:
